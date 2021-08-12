@@ -1,7 +1,7 @@
-﻿#Powershell Windows Defender-Update for Solarwinds RMM
+﻿#Powershell Windows Defender-Update for N-able RMM
 #Author: Andreas Walker andreas.walker@walkerit.ch
 #Licence: GNU General Public License v3.0
-#Version: 1.0.0 / 20.10.2019
+#Version: 1.0.1 / 12.08.2021
 
 #Trigger Windows-Defender update from internet.
 Update-MpSignature -UpdateSource MicrosoftUpdateServer
