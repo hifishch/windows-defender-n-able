@@ -1,7 +1,7 @@
 ﻿#Powershell Windows Defender-Update for N-able RMM
 #Author: Andreas Walker andreas.walker@walkerit.ch
 #Licence: GNU General Public License v3.0
-#Version: 1.0.1 / 12.08.2021
+#Version: 1.0.2 / 04.12.2022
 
 #Trigger Windows-Defender update from internet.
 Update-MpSignature -UpdateSource MicrosoftUpdateServer
