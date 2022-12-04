@@ -25,5 +25,5 @@ Updates Windows Defender definitions and checks if they are younger than 24 hour
 #### Parameters
 * None
 #### Recommended Usage:
-* Task if Antivirus Update-Ceck in RMM fails
+* Task if Antivirus Update-Check in RMM fails
 * Max-Execution Time: 300 Seconds
